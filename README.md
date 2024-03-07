@@ -1,4 +1,4 @@
-# Bienvenue sur le projet backend d'Alloflix
+# Bienvenue sur le projet Alloflix
 Ici vous trouverez le guide d'installation du projet Alloflix ainsi que le récapitulatif des fonctionnalités mises en place dans l'application. Partant d'un simple exercice et d'une interface visuelle pré-existante, le projet s'est vite avéré être un terrain de jeu pour expérimenter diverses fonctionnalités de PHP et de concrétiser un projet en presque totalité avec Symfony, son ORM Doctrine et Twig.
 
 ### Installation du projet
