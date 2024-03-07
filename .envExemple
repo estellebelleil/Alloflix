@@ -45,7 +45,7 @@ MAINTENANCE=
 ###< MAINTENANCE >###
 
 ###> lexik/jwt-authentication-bundle ###
-JWT_SECRET_KEY=%kernel.project_dir%/config/jwt/private.pem
-JWT_PUBLIC_KEY=%kernel.project_dir%/config/jwt/public.pem
+JWT_SECRET_KEY=
+JWT_PUBLIC_KEY=
 JWT_PASSPHRASE=
 ###< lexik/jwt-authentication-bundle ###
