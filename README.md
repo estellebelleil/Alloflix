@@ -51,6 +51,8 @@ Création des écouteurs d'évenements avec Symfony =>  ```src/EventListener```
 
 Création des fixtures =>  ```src/DataFixtures```
 
+Création des tests unitaires =>  ```tests```
+
 ## Envie d'en savoir plus sur mes projets et mon parcours ?
 
 C'est par ici : [estellebelleil.github.io](https://estellebelleil.github.io " Portfolio - Estelle Belleil ")
